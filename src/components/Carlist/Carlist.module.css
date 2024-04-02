@@ -1,0 +1,12 @@
+.carsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 -10px;
+}
+
+.carCard {
+    height: 426px;
+    width: 274px;
+    margin: 10px;
+}
